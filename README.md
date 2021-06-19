@@ -5,4 +5,4 @@ This is an implementation of a library which was assgined to us as an Intro to S
 
 # Main Functions
 
-The library has two panels: Member and Librarian.
+The library has two panels: Member and Librarian. The functionalities and features are divided accordingly.
