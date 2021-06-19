@@ -1,0 +1,31 @@
+6
+1000
+The Kite Runner
+Historical Fiction
+Khaled Hosseini
+1
+1001
+The Alchemist
+Fiction
+Paulo Coelho
+0
+1002
+Confessions of an Economic Hitman
+Biography
+John Perkins
+0
+1003
+Harry Potter
+Fiction
+J. K. Rowling
+1
+1004
+Diary of a Wimpy Kid
+Comedy
+Jeff Kinney
+0
+1005
+Charlie and the Chocolate Factory
+Fiction
+Roald Dahl
+0
